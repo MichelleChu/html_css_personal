@@ -1,0 +1,19 @@
+nav{
+	list-style-type: none;
+	font-style: sans-serif;
+	background-color: #669999
+}
+
+li{
+	float:left;
+}
+body {
+  background: #E6E6E6;
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+img{
+	display:block;
+	height:600px;
+	width:600px;
+}
